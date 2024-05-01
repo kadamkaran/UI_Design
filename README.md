@@ -4,4 +4,5 @@
 4. create a cart page for the same
    i,with same nav bar and footer
    ii,empty cart page will show text with no items added and a button at center with text add products.
-   
+5.payment page.
+        
